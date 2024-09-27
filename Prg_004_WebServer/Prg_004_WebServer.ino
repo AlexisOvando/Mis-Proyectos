@@ -2,8 +2,8 @@
 #include <WebServer.h> // Librería para crear un servidor HTTP
 
 // Definir el nombre y la contraseña de la red WiFi a la que se desea conectar
-const char* ssid = "INFINITUM18DD";      // Reemplaza con el nombre de tu red WiFi
-const char* password = "P3yFu3hNaD";     // Reemplaza con la contraseña de tu red WiFi
+const char* ssid = "*************************";      // Reemplaza con el nombre de tu red WiFi
+const char* password = "***********************";     // Reemplaza con la contraseña de tu red WiFi
 
 // Definir el puerto GPIO del LED
 const int ledPin = 2; // Pin GPIO para el LED (puedes usar otro pin)
