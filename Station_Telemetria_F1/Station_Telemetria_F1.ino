@@ -1,9 +1,9 @@
 #include "STF1.h"
 
-const char* ssid = "INFINITUM18DD";
-const char* pass = "P3yFu3hNaD";
-unsigned long ID = 2681745;
-const char* api = "JTBYYWY0WL3TOMTR";
+const char* ssid = ".";
+const char* pass = ".";
+unsigned long ID = 1;
+const char* api = ".";
 
 station miestacion(ssid, pass, ID, api);
 
